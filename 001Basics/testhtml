@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<HTML 朗="恩">
-<头>
-    <元 字符集="乌特夫-8">
-    <标题>唐诗一首</标题>
-</头>
-<体体>
-<IMG SRC="左庆忠.jpg"/>
-<H1>左庆忠</H1>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>唐诗一首</title>
+</head>
+<body>
+<img src="./images/左庆忠.jpg"/>
+<h1>左庆忠</h1>
 <p>左庆忠没有小鸡鸡</p>
 <p>为什么没有小鸡鸡</p>
 <p>我也不知道为什么</p>
-<p>好诗啊真棒</p>
-</体体>
-</HTML>
+<p>好诗啊好诗啊真棒</p>
+</body>
+</html>
